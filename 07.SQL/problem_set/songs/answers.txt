@@ -1,0 +1,2 @@
+- The user is Purple type as their music is energetic
+- I think the loudness feature is redundant since it could be overlap with energy

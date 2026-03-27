@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: in the case of sorted dataset, faster than sort3 because bubble sort big-omega is only n case, instead of n^2 as selection sort
+
+sort2 uses: merge sort
+
+How do you know?: fastest among the 3 in all datasets to run
+
+sort3 uses: selection sort
+
+How do you know?: in the case of sorted dataset, take the longest time to run as its big-omega is n^2

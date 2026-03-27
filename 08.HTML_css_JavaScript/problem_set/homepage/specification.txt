@@ -1,0 +1,31 @@
+HTML Tags Used (10):
+1. <header> - Page header container
+2. <nav> - Navigation menu
+3. <ul> - Unordered list for menu items
+4. <li> - List items in navigation
+5. <a> - Hyperlinks for navigation and social media
+6. <div> - Content containers and layout sections
+7. <section> - Resume sections for work experience and education
+8. <form> - Contact form
+9. <input> - Form input fields for name and email
+10. <textarea> - Message input in contact form
+
+CSS Selectors Used (5):
+1. Tag selector (footer) - Styles the footer element
+2. Class selector (.resume-section) - Styles resume layout sections
+3. Descendant selector (.menu li a) - Styles links within menu items
+4. Pseudo-class selector (.menu li:hover a) - Hover effect on menu links
+5. Combined class selector (.footer-item.footer-right) - Styles right-aligned footer content
+
+CSS Properties Used (5):
+1. display: flex - Creates flexible layouts for header, footer, and resume sections
+2. background-color - Sets background colors for page sections
+3. border-radius - Rounds corners on buttons and form inputs
+4. transition - Adds smooth hover effects on buttons
+5. gap - Adds spacing between flex items in resume layout
+
+JavaScript:
+Used JavaScript to add form validation on the contact page - when the user leaves the name field empty and clicks away, a warning message appears prompting them to fill in the required field.
+
+Bootstrap:
+Used Bootstrap's grid system (row, col-md-6) to create responsive two-column layouts on the projects page, and used the img-fluid class to make images responsive.
